@@ -45,7 +45,7 @@ function makeSound(keyCode) {
             u.play();
             break;
         case 73:
-            let i = new Audio("sounds/hithat/hihat8.wav");
+            let i = new Audio("sounds/hithat/hihat5.wav");
             i.play();
             break;
         case 79:
